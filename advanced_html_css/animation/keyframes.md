@@ -22,7 +22,7 @@ All in all, both animations and transitions have their use, so in addition to co
 
 ### Animation properties
 
-Ready to get started? Let's see an animation in action to see what we've been talking about.
+Ready to get started? I sure hope so! Let's see an animation in action to see what we've been talking about.
 
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="jOGENZz" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/jOGENZz">
